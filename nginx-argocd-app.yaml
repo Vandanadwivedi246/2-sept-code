@@ -11,7 +11,7 @@ spec:
     path: ArgoCD
   destination:
     server: https://kubernetes.default.svc
-    namespace: nginx-app
+    namespace: default
   syncPolicy:
     automated:
       prune: true
