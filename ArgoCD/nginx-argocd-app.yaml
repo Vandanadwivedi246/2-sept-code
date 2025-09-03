@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/shivam-devsecops/nginx-aks
+    repoURL: https://github.com/Vandanadwivedi246/2-sept-code
     targetRevision: main
     path: .
   destination:
