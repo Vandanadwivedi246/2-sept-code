@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Vandanadwivedi246/2-sept-code
     targetRevision: main
-    path: .
+    path: ArgoCD
   destination:
     server: https://kubernetes.default.svc
     namespace: nginx-app
