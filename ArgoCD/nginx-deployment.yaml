@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mirror.gcr.io/dwivedivandana/my-nginx:latest
+        image: mirror.gcr.io/bhumiharjee/oriserve-streamflix:latest
         ports:
         - containerPort: 80
